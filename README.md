@@ -1,8 +1,8 @@
-# PacMan
+# PacMen Exercise
 
-PacMan is my first github project for my online coding course.
+This project's goal was to create a game where you can click to add PacMen (as many as you please) before then clicking "start" which animates the PacMen to move around the screen until they hit a wall and return back. To make this a little more fun, I have edited this project to give it a little "teeth". PacMan isn't really angry... just hungry. Well, "hangry". 
 
-I have edited this project to give it a little "teeth" in order to make it more fun. PacMan isn't really angry... just hungry. 
+Future improvements to this project would be to add pieces of Pie that you can add with another button and run away from the PacMen to avoid being eaten. Who doesn't like pie? 
 
 Hopefully you enjoy and I will be coming back to this project often. 
 
