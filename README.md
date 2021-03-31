@@ -1,5 +1,6 @@
 # PacMen Exercise
 
+<center><h4>Hungry Hungry PacMen</h4></center>
 <h3>To run this project: </h3>
 <li>Download the code</li>
 <li>run the index.html in your favorite web browser.</li>
